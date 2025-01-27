@@ -1,0 +1,100 @@
+[
+  {
+    "unity": "SESC 24 de Maio",
+    "events": [
+      {
+        "title": "FBC",
+        "description": "Show intimista celebra os 20 anos de carreira com seus maiores sucessos.",
+        "date": "4 e 5/1, sábado, domingo",
+        "hour": "20h, 18h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Spok Quinteto",
+        "description": "Apresentação traz repertório instrumental com clássicos da música nordestina em arranjos jazzísticos.",
+        "date": "8 e 9/1, quarta, quinta",
+        "hour": "20h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Leo Middea",
+        "description": "Revisita seus álbuns que mesclam bossa nova, samba rock, chanson française e música portuguesa.",
+        "date": "10/1, sexta",
+        "hour": "20h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Filipe Catto",
+        "description": "Show \"Belezas São Coisas Acesas por Dentro\", celebra Gal Costa e 15 anos de carreira.",
+        "date": "12 e 13/1, sábado, domingo",
+        "hour": "20h, 18h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Raissa Spada",
+        "description": "Apresenta o disco \"Pelos Pelos Pelos\", participação de Luiza Brina.",
+        "date": "16/1, quinta",
+        "hour": "20h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Mental Abstrato",
+        "description": "Show do álbum \"Uzoma\", com essência de jazz contemporâneo e hip-hop.",
+        "date": "17/1, sexta",
+        "hour": "20h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Sued Nunes",
+        "description": "Lançamento do álbum \"Segunda-feira\", mistura afro-pop e samba.",
+        "date": "18 e 19/1, sábado, domingo",
+        "hour": "20h, 18h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Salloma Sallomão e Al Andaluz",
+        "description": "Show \"Muxima Kumbi\" reflete conexões solares da diáspora africana.",
+        "date": "23/1, quinta",
+        "hour": "20h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      },
+      {
+        "title": "Luê",
+        "description": "Apresenta o álbum \"Brasileira do Norte\", conectando cultura nortista e pop eletrônico.",
+        "date": "24/1, sexta",
+        "hour": "20h",
+        "local": "Teatro",
+        "ticket": "R$60, R$30, R$18"
+      }
+    ]
+  },
+  {
+    "unity": "SESC Avenida Paulista",
+    "events": [
+      {
+        "title": "Larie",
+        "description": "Show com voz e guitarra, mescla MPB, eletrônico e experimentações.",
+        "date": "16/1, quinta",
+        "hour": "20h",
+        "local": "Arte II",
+        "ticket": "R$50, R$25, R$15"
+      },
+      {
+        "title": "Letra e Canção",
+        "description": "Voz e violão, poema e música, alma e dança.",
+        "date": "Não informado",
+        "hour": "Não informado",
+        "local": "Não informado",
+        "ticket": "Não informado"
+      }
+    ]
+  }
+]
